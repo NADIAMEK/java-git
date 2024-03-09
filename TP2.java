@@ -1,5 +1,5 @@
 
-// EXRECICE 2 
+// EXRECICE 1
 // WHILE 
 //import java.util.Scanner;
 //
@@ -11,7 +11,7 @@
 //        int n = scanner.nextInt();
 //
 //        int sum = 0;
-//        long product = 1;
+//        long produit = 1;
 //        int count = 0;
 //
 //        System.out.println("Entrer " + n + " nombres :");
@@ -19,15 +19,15 @@
 //        while (count < n) {
 //            int num = scanner.nextInt();
 //            sum += num;
-//            product *= num;
+//            produit *= num;
 //            count++;
 //        }
 //
-//        double average = (double) sum / n;
+//        doublemoyenne = (double) sum / n;
 //
 //        System.out.println("Sum: " + sum);
-//        System.out.println("Product: " + product);
-//        System.out.println("moyenne : " + average);
+//        System.out.println("Product: " + produit);
+//        System.out.println("moyenne : " + moyenne);
 //    }
 //}
 //// DO - WHILE 
@@ -41,7 +41,7 @@
 //        int n = scanner.nextInt();
 //
 //        int sum = 0;
-//        long product = 1;
+//        long produit = 1;
 //        int count = 0;
 //
 //        System.out.println("Entrer " + n + " nombres :");
@@ -49,15 +49,15 @@
 //        do {
 //            int num = scanner.nextInt();
 //            sum += num;
-//            product *= num;
+//            produit *= num;
 //            count++;
 //        } while (count < n);
 //
-//        double average = (double) sum / n;
+//        double moyenne = (double) sum / n;
 //
 //        System.out.println("Sum: " + sum);
-//        System.out.println("Product: " + product);
-//        System.out.println("Average: " + average);
+//        System.out.println("Produit: " + produit);
+//        System.out.println("moyenne: " + moyenne);
 //    }
 //}
 //// FOR 
@@ -71,21 +71,21 @@
 //        int n = scanner.nextInt();
 //
 //        int sum = 0;
-//        long product = 1;
+//        long produit = 1;
 //
 //        System.out.println("Entrer " + n + " nombres:");
 //
 //        for (int i = 0; i < n; i++) {
 //            int num = scanner.nextInt();
 //            sum += num;
-//            product *= num;
+//            produit *= num;
 //        }
 //
-//        double average = (double) sum / n;
+//        double moyenne = (double) sum / n;
 //
 //        System.out.println("Sum: " + sum);
-//        System.out.println("Product: " + product);
-//        System.out.println("Average: " + average);
+//        System.out.println("Product: " + produit);
+//        System.out.println("moyenne: " + moyenne);
 //    }
 //}
 // EXERCICE 2
