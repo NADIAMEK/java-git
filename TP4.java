@@ -113,7 +113,7 @@
 //	    public static void main(String[] args) {
 //	        Scanner scanner = new Scanner(System.in);
 //
-//	        int[] goals = new int[22];
+//	        int[] buts = new int[22];
 //	        for (int i = 0; i < 29)
 //	    }
 //}
@@ -126,12 +126,12 @@
 //	System.out.print("Entrer age : ");
 //	        		        
 //int age = scanner.nextInt();
-//System.out.print("Entrer le sexe (M for male, F for female): ");
+//System.out.print("Entrer le sexe (M for masculin, F for feminin): ");
 //	        		        
-//char gender = scanner.next().charAt(0);
+//char sexe = scanner.next().charAt(0);
 //boolean isimposable = false;
 //	        		        
-//if (gender == 'M' && age > 20) {
+//if (sexe == 'M' && age > 20) {
 //
 //isimposable = true;
 // } else if (sexe == 'F' && age >= 18 && age <= 35) {
