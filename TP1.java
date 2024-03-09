@@ -17,10 +17,10 @@
 //        int quotient = num1 / num2; 
 //        int difference = num1 - num2;
 //
-//        System.out.println("The sum of " + num1 + " and " + num2 + " is " + sum);
-//        System.out.println("The product of " + num1 + " and " + num2 + " is " + product);
-//        System.out.println("The quotient of " + num1 + " and " + num2 + " is " + quotient);
-//        System.out.println("The difference between " + num1 + " and " + num2 + " is " + difference);
+//        System.out.println("The sum of " + num1 + " and " + num2 + " est " + sum);
+//        System.out.println("The product of " + num1 + " and " + num2 + " est " + product);
+//        System.out.println("The quotient of " + num1 + " and " + num2 + " est " + quotient);
+//        System.out.println("The difference between " + num1 + " and " + num2 + " est " + difference);
 //    }
 //}
 
